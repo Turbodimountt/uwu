@@ -1,0 +1,32 @@
+let dia = 1;
+let nombredia;
+switch (dia) {
+    case 1:
+       return numero1 + numero2 =;
+        break;
+    default:
+       nombredia = "dia invalido";
+}
+console.log(nombredia);
+
+manipulacion de datos en dom e jc
+
+
+
+let dia = 1;
+let nombredia;
+switch (dia) {
+    case 1:
+       return numero1 + numero2 =;
+    case 2:
+        return numero1 - numero2 =;
+    case 3:
+        return numero1 * numero2 =;
+    case 4:
+        if (numero2 === 0) {
+            return "error de divicion"
+        }
+        return numero1 / numero2;
+        
+    default:
+       return "opcion invalida"
