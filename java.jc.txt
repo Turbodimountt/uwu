@@ -1,0 +1,32 @@
+
+let numero = 5;
+console.log("vallor inicial", numero);
+numero++;
+console.log("sube", numero);
+
+numero--;
+console.log ("baja:", --numero);
+
+let suma = 7 + 3;
+console.log ("el resultado es " + suma);
+
+let resta = 10 - 4;
+console.log ("el resultado es " + resta);
+
+let modulo = 6 * 2;
+console.log ("el resultado es " + modulo );
+
+let divi = 7 / 3;
+console.log ("el resultado es " + divi );
+
+let uwu = 9 % 4;
+console.log ("el resultado es " + uwu );
+///////////////////////////////////////////
+let resultadoAND = (5>3)&& (2<4)
+console.log ("el resultado es " + resultadoAND)
+/////////////////////////////////////////////
+let hola = (5>3) || (2>4)
+console.log ("el resultado es " + hola)
+////////////////////////////////////
+let dragon = !(5>3)
+console.log ("tengo miedo " + dragon)
